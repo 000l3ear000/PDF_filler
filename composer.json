@@ -1,0 +1,15 @@
+{
+    "name": "test/pdftk",
+    "authors": [
+        {
+            "name": "Osama",
+            "email": "osamanadeem679@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "./classes"
+        }
+    },
+    "require": {}
+}
