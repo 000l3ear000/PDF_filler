@@ -20,16 +20,16 @@
         <span>Field7</span><input name="field7" type="text" ><br>
         <span>Field8</span><input name="field8" type="text" ><br>
         <span>Field9</span><input name="field9" type="text" ><br>
+        <span>Field10</span><input name="field10" type="text" ><br>
+        <span>Field11</span><input name="field11" type="text" ><br>
+        <span>Field12</span><input name="field12" type="text" ><br>
+        <span>Field13</span><input name="field13" type="text" ><br>
 
         <input name="chkbox1" type="hidden" value="0" ><br>
         <span>CheckBox1</span> <input name="chkbox1" type="checkbox" value="Yes" ><br>
         <input name="chkbox2" type="hidden" value="0" ><br>
         <span>CheckBox2</span> <input name="chkbox2" type="checkbox" value="Yes" ><br>
 
-        <span>Field10</span><input name="field10" type="text" ><br>
-        <span>Field11</span><input name="field11" type="text" ><br>
-        <span>Field12</span><input name="field12" type="text" ><br>
-        <span>Field13</span><input name="field13" type="text" ><br>
         <span>Field14</span><input name="field14" type="text" ><br>
         <span>Field15</span><input name="field15" type="text" ><br>
         <span>Field16</span><input name="field16" type="text" ><br>
@@ -42,17 +42,18 @@
         <span>Field19</span><input name="field19" type="text" ><br>
 
         <input name="chkbox4" type="hidden" value="0" ><br>
-        <span>CheckBox4</span> <input name=chkbox4" type="checkbox" value="On" ><br>
+        <span>CheckBox4</span> <input name="chkbox4" type="checkbox" value="On" ><br>
         <input name="chkbox5" type="hidden" value="0" ><br>
         <span>CheckBox5</span> <input name="chkbox5" type="checkbox" value="On"><br>
         <input name="chkbox6" type="hidden" value="0" ><br>
         <span>CheckBox6</span> <input name="chkbox6" type="checkbox" value="On"><br>
+        <span>Field20</span><input name="field20" type="text" ><br>
+
         <input name="chkbox7" type="hidden" value="0" ><br>
         <span>CheckBox7</span> <input name="chkbox7" type="checkbox" value="On"><br>
         <input name="chkbox8" type="hidden" value="0" ><br>
         <span>CheckBox8</span> <input name="chkbox8" type="checkbox" value="On"><br>
 
-        <span>Field20</span><input name="field20" type="text" ><br>
         <span>Field21</span><input name="field21" type="text" ><br>
         <span>Field22</span><input name="field22" type="text" ><br>
         <span>Field23</span><input name="field23" type="text" ><br>

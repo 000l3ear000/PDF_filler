@@ -4,18 +4,18 @@ CityCounty
 Text2
 Text3
 Trial Date
-Type of Paper
 Issue Date
 Expiration Date
+Received From 1
+Special Instructions 1
+Received From 2
+Special Instructions 2
+Type of Paper
 Check Box4
 Check Box5
-Received From 1
 GarnisheeAgent_2
-Special Instructions 1
 Address 1
-Received From 2
 City State Zip
-Special Instructions 2
 Check Box6
 Address 2
 Text7
@@ -23,12 +23,12 @@ Text8
 I served a summons by delivery of the complaint and all supporting papers or of a Motion for Order Declaring Judgment Satisfied
 restricted mail return card attached
 alternative service pursuant to court order and Md Rule 3121c by
+undefined_2
 first class mail service authorized by court order in accordance with Md Rule 3626
 delivery to
-undefined_2
-Text11
 Text9
 Text10
+Text11
 Text12
 Text13
 discretion in that relationship to the defendant is
